@@ -1,5 +1,5 @@
 {
-    "name": "g4z/feeds",
+    "name": "willvincent/feeds",
     "description": "Laravel 5 Service Provider for the SimplePie library",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "g4z\\Feeds\\": "src/"
+            "willvincent\\Feeds\\": "src/"
         }
     }
 }
